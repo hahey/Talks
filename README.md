@@ -1,2 +1,7 @@
 # Talks
-A collection of technical talks that I have given last years.
+A collection of technical talks that I have given in the past few years.
+
+All the files are licensed under `CC BY-NC-SA 4.0` excluding:
+
+- `Alumni_Invitation_Jeju_Science_Highschool/talk_jeju_science_high_school_alumni_invitation.pdf`
+- `decision_tree_and_ensembles_2020_spring/tree_ensemble_redi.pdf`
